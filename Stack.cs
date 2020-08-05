@@ -65,7 +65,7 @@ namespace ThreeDataStructures
         /// <returns>size of stack</returns>
         public int Size()
         {
-            return stack.Count;
+            return stack.Count + 1;
         }
 
         /// <summary>

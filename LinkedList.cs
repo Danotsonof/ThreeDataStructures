@@ -165,7 +165,7 @@ namespace ThreeDataStructures
         /// <returns>Length of list</returns>
         public int Size()
         {
-            return count;
+            return count +1;
         }
 
         /// <summary>

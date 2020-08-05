@@ -54,7 +54,7 @@ namespace ThreeDataStructures
         /// <returns>size of queue</returns>
         public int Size()
         {
-            return queue.Count;
+            return queue.Count + 1;
         }
         // 
 
