@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeDataStructures", "ThreeDataStructures.csproj", "{8E5386A6-F390-43A3-AE52-8BD9D0D769B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E5386A6-F390-43A3-AE52-8BD9D0D769B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5386A6-F390-43A3-AE52-8BD9D0D769B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5386A6-F390-43A3-AE52-8BD9D0D769B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5386A6-F390-43A3-AE52-8BD9D0D769B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F70EF574-08AD-4405-8BC7-E75C0718C3C0}
+	EndGlobalSection
+EndGlobal
