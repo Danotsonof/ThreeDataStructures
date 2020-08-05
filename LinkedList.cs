@@ -192,10 +192,10 @@ namespace ThreeDataStructures
                 if(currentIndex == index)
                 {
                     LinkedListNode<T> previous = current.Prev;
-                    if (previous == null) head = tail;
+                    if (previous == null) head = node;
                     node.Prev = previous;
                     node.Next = current;
-                    previous.Next = node;
+                    //previous.Next = node;
                     current.Prev = node;
                     count++;
                     return;
